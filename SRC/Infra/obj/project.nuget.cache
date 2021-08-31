@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDxTD8iRBkF38DICBIq+nkuf6TRVGUGjpTXJDR/QPMwZzV6n0FAfQoIHz11RAdU4bR2NRHjM0BBsBW3lJJUA7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Senna\\pojeto_bem_preparados_back_2\\src\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Senna\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
