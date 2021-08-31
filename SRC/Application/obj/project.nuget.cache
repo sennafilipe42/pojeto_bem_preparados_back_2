@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UGqS2y1L/5nCcjOQRNLobi1aKtlo9xvDFhQ+SZ9LCUTZ5hk29h+p/4LptLpeoXaUtpIEraUdDN2lkt/u/unsVg==",
+  "dgSpecHash": "s8Y59qE4MWAg9tNQfRgKODySrWWSe6yWm20v2yXwG7P5DVNqGGAa6g5EDIox5NhXVTWXAgtw9wYs0sDXCwI+7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Senna\\pojeto_bem_preparados_back_2\\src\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Senna\\pojeto_bem_preparados_back_2\\SRC\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Senna\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Senna\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
